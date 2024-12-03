@@ -1,0 +1,16 @@
+{
+  "name": "node_toturial",
+  "version": "1.0.0",
+  "description": "its a node js startup programme ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ahsan_ullah",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.6",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
